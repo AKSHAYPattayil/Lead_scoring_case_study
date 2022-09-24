@@ -1,1 +1,2 @@
 # Lead_scoring_case_study
+X Education, an online course selling education company, needs assistance in recognising and selecting promising leads that will most likely convert to paying customers. Our aim is to analyse and identify variables which leads to higher customer conversion rate. This is done by assigning lead scores to each of the leads such that customers with high lead score indicate high chance of conversion.
